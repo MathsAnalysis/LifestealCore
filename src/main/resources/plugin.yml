@@ -1,0 +1,5 @@
+name: lifesteal
+main: me.mathsanalysis.lifesteal.main.LifestealPlugin
+version: ${GIT_COMMIT_HASH}
+description: A simple lifesteal plugin for Minecraft
+author: Mathsanalysis
